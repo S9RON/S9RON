@@ -78,7 +78,5 @@
 
 ###
 
-[<br clear="both">
-
-<img src="https://raw.githubusercontent.com/S9RON/S9RON/output/snake.svg" alt="Snake animation" />](https://raw.githubusercontent.com/S9RON/S9RON/output/snake.svg)
+<img src="https://raw.githubusercontent.com/SSHA09/SSHA09/output/snake.svg" alt="Snake animation" />
 
