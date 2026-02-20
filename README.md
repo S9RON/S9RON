@@ -77,4 +77,3 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg" />
-
