@@ -77,14 +77,8 @@
 </div>
 
 ###
-<picture>
-  <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SSHA09/SSHA09/output/pacman-contribution-graph-dark.svg">
-  
-  <!-- Light mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SSHA09/SSHA09/output/pacman-contribution-graph.svg">
-  
-  <!-- Fallback -->
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/SSHA09/SSHA09/output/pacman-contribution-graph.svg">
-</picture>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/S9RON/S9RON/output/snake.svg" alt="Snake animation" />
 
