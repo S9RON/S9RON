@@ -76,7 +76,5 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/SSHA09/SSHA09/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/S9RON/S9RON/output/snake.svg" alt="Snake animation" />
 
