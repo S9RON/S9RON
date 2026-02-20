@@ -78,9 +78,13 @@
 
 ###
 <picture>
+  <!-- Dark mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SSHA09/SSHA09/output/pacman-contribution-graph-dark.svg">
+  
+  <!-- Light mode -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SSHA09/SSHA09/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SSHA09/SSHA09/output/pacman-contribution-graph.svg">
+  
+  <!-- Fallback -->
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/SSHA09/SSHA09/output/pacman-contribution-graph.svg">
 </picture>
-
 
