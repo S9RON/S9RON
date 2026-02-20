@@ -76,5 +76,5 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/S9RON/S9RON/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg" />
 
