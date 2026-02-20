@@ -51,3 +51,30 @@
 
 
 
+<div align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <img width="6" />
+
+  <!-- Email -->
+  <a href="mailto:sahanassahanas419@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo" />
+  </a>
+  <img width="6" />
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/sahanasharon" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
+  </a>
+  <img width="6" />
+
+  <!-- Connect (LinkedIn) -->
+  <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Connect logo" />
+  </a>
+</div>
+
+
+
