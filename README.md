@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAHANA SHARON</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="185"/>
+  <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="100"/>
   <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="185"/>
 </div>
 
@@ -32,4 +32,4 @@
 
 <div align="center" style="margin-top:10px;">
   <img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg"/>
-</div>  shift the gif near most used language and soon after the social media i need the snake animation over all i have the problem with the places and spaces. let me add the example of the output, 2nd image is the output. 
+</div> 
