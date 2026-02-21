@@ -23,7 +23,7 @@
       </a>
     </div>
   </div>
-
+<div align="right">
   <div style="margin-top:10px;">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="140"/>
   </div>
