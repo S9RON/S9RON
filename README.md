@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAHANA SHARON</h1>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
