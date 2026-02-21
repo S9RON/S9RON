@@ -23,7 +23,7 @@
     </div>
   </div>
   <div align="center" style="display:flex; justify-content:center; align-items:flex-start; gap:5px; flex-wrap:wrap; margin-top:1px;">
-  <div align="right" style="margin:10; padding:10;">
+  <div align="right" style="margin:20; padding:20;">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="125"/>
   </div>
 </div>
