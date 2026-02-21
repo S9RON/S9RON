@@ -4,10 +4,11 @@
   <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="185"/>
   <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="185"/>
 </div>
+<p>
   <div align="left" style="margin:0; padding:0;">
     <div style="margin:0;">
       <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,git,googlecloud" height="30"/>
-    </div> 
+    </div> </p>
     <p>
     <div style="margin-top:6px;">
       <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259">
