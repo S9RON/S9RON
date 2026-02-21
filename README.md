@@ -4,13 +4,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://readme-stats.hackclub.dev/api?username=S9RON&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=S9RON&show_icons=true&theme=github_dark&hide_border=true)
 
-<p align="center">
-  <img src="https://readme-stats.hackclub.dev/api/top-langs/?username=S9RON&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=github_dark&hide_border=true)
 
 ###
 <div align="right">
