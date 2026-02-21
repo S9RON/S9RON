@@ -7,7 +7,7 @@
 
 <div align="center" style="display:flex; justify-content:center; align-items:flex-start; gap:20px; flex-wrap:wrap; margin-top:5px;">
 
-  <div>
+  <div align="right">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="125"/>
   </div>
 
