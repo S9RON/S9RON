@@ -9,7 +9,7 @@
 
   <div align="left">
     <div>
-      <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,git,googlecloud" height="32"/>
+      <img src="https://skillicons.dev/icons?i=javascript,html,css,python,django,mysql,git,googlecloud" height="32"/>
     </div>
     <p>
     <div style="margin-top:10px;">
