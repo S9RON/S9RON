@@ -6,7 +6,7 @@
 </div>
 
 <div style="display:flex; justify-content:center; align-items:center; gap:40px; margin-top:15px;">
-
+<p>
   <!-- Left Side -->
   <div align="left">
     <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,git,googlecloud" height="30"/>
@@ -22,13 +22,17 @@
       </a>
     </div>
   </div>
+<div style="display:flex; justify-content:center; align-items:center; gap:15px; margin-top:15px;">
 
-  <!-- Right Side GIF -->
-  <div align="right" style="margin-top:-20px; margin-left:-20px;">
+  <div align="left">
+    <!-- your icons + buttons -->
+  </div>
+
+  <div align="right" style="margin-left:-20px; margin-top:-10px;">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="105"/>
   </div>
+
 </div>
-<br>
 <div align="center" style="margin-top:-10px;">
   <img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg"/>
 </div>
