@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="115"/>
   <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
-<div align="center" style="margin-top:20px;">
+<div align="left" style="margin-top:20px;">
 
   <!-- LEFT: Tech + Social -->
   <div style="display:inline-block; text-align:left; vertical-align:left; margin-right:30px;">
@@ -23,10 +23,10 @@
 
   </div>
 
-  <!-- RIGHT: GIF -->
-  <div style="display:inline-block; vertical-align:right;">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="120"/>
-  </div>
+  <div align="left" style="margin-top:20px;">
+ <div style="display:inline-block; vertical-align:middle; padding:30px;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="120"/>
+</div>
 
 </div>
 
