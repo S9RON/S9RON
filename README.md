@@ -9,9 +9,11 @@
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=github_dark&hide_border=true)
 
 ###
+
 <div align="right">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
 ###
 
 ###
