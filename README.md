@@ -26,7 +26,7 @@
   </div>
 </p>
 <div style="display:flex; justify-content:center; align-items:center; gap:30px; margin-top:10px;">
-  <div align="left">
+  <div align="right">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="140"/>
   </div>
 </div>
