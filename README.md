@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="120"/>
-  <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="880"/>
+  <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="999"/>
 </div>
 
 <div style="display:flex; justify-content:center; align-items:center; gap:30px; margin-top:10px;">
