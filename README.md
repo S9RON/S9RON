@@ -13,7 +13,7 @@
 
   <div align="left">
     <p>
-      <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,,git,google cloud" height="30"/>
+      <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,,git,googlecloud" height="30"/>
     </p>
     <p>
       <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259">
