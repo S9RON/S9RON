@@ -40,12 +40,11 @@
 </span>
 
 <!-- RIGHT GIF -->
-<span style="display:inline-block; vertical-align:top; margin-left:40px;">
+<span style="display:inline-block; vertical-align:top; margin-right:40px;">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="160"/>
 </span>
 
 </p>
-
 <!-- Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg"/>
