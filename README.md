@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm SAHANA SHARON</h1>
 
-<!-- GitHub Stats + Top Languages + GIF aligned -->
-<div align="center">
-  <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180"/>
-</div>
+<!-- Stats + Languages + GIF perfectly aligned -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -28,7 +36,7 @@
 
 <br>
 
-<!-- Snake Animation Full Width -->
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg"/>
 </div>
