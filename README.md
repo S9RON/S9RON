@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm SAHANA SHARON</h1>
 
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=S9RON&show_icons=true&theme=github_dark&hide_border=true)
+![S9RON GitHub stats](https://ghstats.onrender.com/api?username=S9RON&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://ghstats.onrender.com/api/top-langs/?username=S9RON&layout=compact&theme=github_dark)
 
 ###
 
