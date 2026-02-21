@@ -8,12 +8,12 @@
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:25px; flex-wrap:wrap;">
 
   <div align="right">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100"/>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="125"/>
   </div>
 
   <div align="left">
     <p>
-      <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,,git,googlecloud" height="30"/>
+      <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,git,googlecloud" height="30"/>
     </p>
     <p>
       <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259">
