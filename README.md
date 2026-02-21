@@ -1,35 +1,30 @@
 <h1 align="center">Hi 👋, I'm SAHANA SHARON</h1>
 
+<!-- Stats (Same Height) -->
 <p align="center">
   <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<table width="100%">
-<tr>
+<!-- LEFT (Tech + Social) | RIGHT (GIF) -->
+<p align="left">
 
-<td width="70%" valign="top">
+<!-- LEFT BLOCK -->
+<span style="display:inline-block; vertical-align:top;">
 
-<!-- Tech Icons -->
+<!-- Tech Icons Line -->
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
 </p>
 
-<!-- Social Buttons (small gap like screenshot) -->
+<!-- Social Buttons Line -->
 <p>
   <a href="mailto:sahanassahanas419@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -42,17 +37,16 @@
   </a>
 </p>
 
-</td>
+</span>
 
-<td width="30%" align="right" valign="top">
+<!-- RIGHT GIF -->
+<span style="display:inline-block; vertical-align:top; margin-left:40px;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="160"/>
+</span>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="170"/>
+</p>
 
-</td>
-
-</tr>
-</table>
-
+<!-- Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg"/>
 </p>
