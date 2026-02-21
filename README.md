@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm SAHANA SHARON</h1>
 
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://readme-stats.hackclub.dev/api?username=S9RON&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
@@ -7,7 +11,6 @@
 <p align="center">
   <img src="https://readme-stats.hackclub.dev/api/top-langs/?username=S9RON&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
 
 ###
 <div align="right">
