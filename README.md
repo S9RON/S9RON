@@ -23,17 +23,14 @@
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </div>
-<div align="left">
+<div align="left" style="display:flex; align-items:center;">
   <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sahanassahanas419@gmail.com">
+    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a><a href="mailto:sahanassahanas419@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/sahanasharon">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
 </div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg"/>
 </div>
