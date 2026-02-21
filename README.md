@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm SAHANA SHARON</h1>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight" height="170" />
+</p>
 
-![S9RON GitHub stats](https://ghstats.onrender.com/api?username=S9RON&show_icons=true&theme=github_dark)
-
-![Top Languages](https://ghstats.onrender.com/api/top-langs/?username=S9RON&layout=compact&theme=github_dark)
 
 ###
 
