@@ -4,13 +4,10 @@
   <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="185"/>
   <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="185"/>
 </div>
-
 <div align="center" style="display:flex; justify-content:center; align-items:flex-start; gap:20px; flex-wrap:wrap; margin-top:5px;">
-
   <div align="right">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="125"/>
   </div>
-
   <div align="left" style="margin:0; padding:0;">
     <div style="margin:0;">
       <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,git,googlecloud" height="30"/>
@@ -27,9 +24,7 @@
       </a>
     </div>
   </div>
-
 </div>
-
 <div align="center" style="margin-top:10px;">
   <img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg"/>
 </div>
