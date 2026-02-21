@@ -21,15 +21,15 @@
       </a>
       <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259">
         <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-    </div>
-  </div>
-</p>
-<div style="display:flex; justify-content:center; align-items:center; gap:30px; margin-top:10px;">
+        <div style="display:flex; justify-content:center; align-items:center; gap:30px; margin-top:10px;">
   <div align="right">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="140"/>
   </div>
 </div>
+      </a>
+    </div>
+  </div>
+</p>
 <div align="center" style="margin-top:10px;">
   <img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg"/>
 </div> 
