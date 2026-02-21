@@ -3,14 +3,17 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&cache_seconds=1800)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight" />
+</p>
 
+## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&cache_seconds=1800)
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight" />
+</p>
 
 
 <div align="left">
