@@ -11,6 +11,7 @@
     <div>
       <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,git,googlecloud" height="32"/>
     </div>
+    <p>
     <div style="margin-top:10px;">
       <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
