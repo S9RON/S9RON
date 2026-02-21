@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm SAHANA SHARON</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S9RON&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+</p>
 <div align="right">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
