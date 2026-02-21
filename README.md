@@ -27,10 +27,9 @@
   <div align="right" style="margin-top:-20px; margin-left:-20px;">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="105"/>
   </div>
-
 </div>
-
-<!-- Snake Animation -->
+<br>
 <div align="center" style="margin-top:-10px;">
   <img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg"/>
 </div>
+</br>
