@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 <div align="left" style="margin-top:20px;">
-<div align="right" style="margin-top:20px;">
+
 
   <div style="display:flex; align-items:center; gap:20px;">
     <div>
