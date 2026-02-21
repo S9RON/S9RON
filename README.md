@@ -15,6 +15,7 @@
 ###
 
 ###
+
 <div align="left">
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
@@ -47,9 +48,11 @@
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
 </div>
+
 ###
 
 ###
+
 <div align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259" target="_blank">
