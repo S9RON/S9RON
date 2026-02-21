@@ -7,9 +7,9 @@
 <div align="left" style="margin-top:20px;">
 
 
-  <div style="display:flex; align-items:center; gap:20px;">
+  <div style="display:flex; align-items:center; gap:30px;">
     <div>
-      <img src="https://skillicons.dev/icons?i=python, django, mysql, html, css, javascript, git, googlecloud" height="25"/>
+      <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,git,googlecloud" height="25"/>
     </div>
   <div>
       <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259">
