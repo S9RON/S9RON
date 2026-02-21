@@ -24,7 +24,7 @@
   </div>
 
   <div align="right" style="margin-top:20px;">
- <div style="display:inline-block; vertical-align:middle; padding:30px;">
+ <div style="display:inline-block; vertical-align:middle; padding:100px;">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="120"/>
 </div>
 
