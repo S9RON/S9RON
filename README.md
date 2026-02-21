@@ -5,11 +5,8 @@
   <!-- Stats Row -->
   <div style="display:flex; justify-content:center; gap:10px; align-items:flex-start;">
     <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="185"/>
-    
     <div>
       <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="185"/>
-      
-      <!-- GIF under Most Used Languages -->
       <div style="margin-top:-5px;">
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="120"/>
       </div>
