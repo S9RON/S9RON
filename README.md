@@ -9,8 +9,9 @@
 
   <div align="left">
     <div>
-      <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,git,googlecloud" height="32"/>
+      <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,git,googlecloud" height="30"/>
     </div>
+    <p>
     <div style="margin-top:10px;">
       <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,13 +24,12 @@
       </a>
     </div>
   </div>
-
-  <div>
+</p>
+<div style="display:flex; justify-content:center; align-items:center; gap:30px; margin-top:10px;">
+  <div align="left">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="140"/>
   </div>
-
 </div>
-
 <div align="center" style="margin-top:10px;">
   <img src="https://raw.githubusercontent.com/S9RON/S9RON/output/github-contribution-grid-snake.svg"/>
 </div> 
