@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm SAHANA SHARON</h1>
 
 <p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=S9RON&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=S9RON&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
 
