@@ -23,8 +23,8 @@
       </a>
     </div>
   </div>
-  <div align="center" style="display:flex; justify-content:center; align-items:flex-start; gap:5px; flex-wrap:wrap; margin-top:1px;">
-  <div align="right" style="margin:20; padding:100;">
+  <div align="center" style="display:flex; justify-content:center; align-items:flex-start; gap:10px; flex-wrap:wrap; margin-top:20px;">
+  <div align="right" style="margin:30; padding:250;">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="125"/>
   </div>
 </div>
