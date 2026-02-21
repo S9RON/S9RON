@@ -2,18 +2,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="185"/>
-  <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="185"/>
+  <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true" height="400"/>
 </p>
 
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:25px; flex-wrap:wrap;">
 
-  <div>
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="220"/>
+  <div align="right">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100"/>
   </div>
 
   <div align="left">
     <p>
-      <img src="https://skillicons.dev/icons?i=python,java,django,flask,mysql,html,css,javascript,opencv,git,github" height="40"/>
+      <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,javascript,,git,google cloud" height="30"/>
     </p>
     <p>
       <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259">
