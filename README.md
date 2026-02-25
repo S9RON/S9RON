@@ -36,10 +36,7 @@
   </a>
   <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259 target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" height="35" alt="LinkedIn Badge" />
-  </a>
-<a href="https://www.linkedin.com/in/sahana-sharon-9619b1259">
-        <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
+  </a>     
 </div>
 
 </div>
