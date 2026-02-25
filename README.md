@@ -54,9 +54,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/S9RON/count.svg?" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=S9RON&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 
 
