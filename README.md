@@ -31,13 +31,20 @@
 ###
 
 <div align="left">
+  <!-- Gmail -->
   <a href="mailto:sahanasharons@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259 target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" height="35" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail Badge" />
   </a>
 
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" height="35" alt="LinkedIn Badge" />
+  </a>
+
+  <!-- Connect Button -->
+  <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" height="35" alt="Connect Badge" />
+  </a>
 </div>
 
 
