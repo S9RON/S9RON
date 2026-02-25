@@ -43,7 +43,7 @@
 
   <!-- Connect -->
   <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-Let's%20Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="Connect Badge" />
+    <img src="https://img.shields.io/badge/Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="Connect Badge" />
   </a>
 
 </div>
