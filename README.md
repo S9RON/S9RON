@@ -41,13 +41,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" height="35" alt="LinkedIn Badge" />
   </a>
 
-  <!-- Connect Button -->
-  <a href="https://www.linkedin.com/in/sahana-sharon-9619b1259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" height="35" alt="Connect Badge" />
-  </a>
-</div>
-
-
 ###
 
 <br clear="both" />
