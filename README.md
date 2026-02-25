@@ -33,7 +33,7 @@
 <div align="left">
   <!-- Gmail -->
   <a href="mailto:sahanasharons@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail Badge" />
+    <img src="https://img.shields.io/gmail/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail Badge" />
   </a>
 
   <!-- LinkedIn Icon -->
