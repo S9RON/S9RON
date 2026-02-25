@@ -1,19 +1,9 @@
 <h2 align="left">Hi 👋! I am SAHANA SHARON </h2>
 
 ###
-
 <div align="center">
-
-  <img 
-    src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="160"
-  />
-
-  <img 
-    src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" 
-    height="160"
-  />
-
+ <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api?username=S9RON&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-zeta-navy-22.vercel.app/api/top-langs/?username=S9RON&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" height="150" alt="Top Languages"/>
 </div>
 <div align="left" style="margin-top:50px;">
 
